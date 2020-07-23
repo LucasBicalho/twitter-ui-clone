@@ -1,44 +1,37 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<p align="center">
+  <a href="https://github.com/LucasBicalho/twitter-ui-clone">
+    <img src="assets/Twitter_Logo_Blue.png" alt="Logo" height="100px">
+  </a>
 
-## Available Scripts
+  <h1 align="center">Responsive Twitter UI Clone</h1>
 
-In the project directory, you can run:
+  <p align="center">
+    Responsive Twitter UI Clone (partial) based on a video tutorial made by <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&t=7846s" >Rocketseat on their youtube channel</a> for study purposes.
+  </p>
+</p>
+<br />
+<div align="center">
+  <img src=".github\twitter-ui.gif" />
+</div>
+<br />
 
-### `yarn start`
+## Cloning User Interface of Twitter
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The objective of this project is to practice and improve my knowledge of front-end development and responsiveness.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Built With
 
-### `yarn test`
+- ReactJS
+- Styled Components
+- Typescript
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Usage
 
-### `yarn build`
+1. Run `npm install` or `yarn install`.<br />
+2. Run `npm start` or `yarn start` and access `http://localhost:3000`.<br />
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br />
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+by Lucas Bicalho<br />
+[Linkedin](https://www.linkedin.com/in/lucasbicalho/) | [GitHub](https://github.com/LucasBicalho)

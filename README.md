@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LucasBicalho/twitter-ui-clone">
-    <img src="assets/Twitter_Logo_Blue.png" alt="Logo" height="100px">
+    <img src=".github/Twitter_Logo_Blue.png" alt="Logo" height="100px">
   </a>
 
   <h1 align="center">Responsive Twitter UI Clone</h1>

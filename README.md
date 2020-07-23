@@ -7,7 +7,7 @@
   <h1 align="center">Responsive Twitter UI Clone</h1>
 
   <p align="center">
-    Responsive Twitter UI Clone (partial) based on a video tutorial made by <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><a href="https://www.youtube.com/watch?v=x4FdZd2-_uU&t=7846s" >Rocketseat on their youtube channel</a> for study purposes.
+    Responsive Twitter UI Clone (partial) based on a video tutorial made by <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji><a href="https://www.youtube.com/watch?v=K-8z_4xvT3o" >Rocketseat on their youtube channel</a> for study purposes.
   </p>
 </p>
 <br />
